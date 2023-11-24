@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e723c184-7259-4faf-bfaf-6986f23ea200" name="Changes" comment="10 Java Programs">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/ArrayLists2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/ArrayLists3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/HashMAp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/HashTable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/Hashsets1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/Hashsets2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/LinkedHashSets1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/LinkedListQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/LinkedLists1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Collections/PriorityQueueClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PalindromeString.java" afterDir="false" />
-    </list>
+    <list default="true" id="e723c184-7259-4faf-bfaf-6986f23ea200" name="Changes" comment="Collections" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +46,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Collections.Queue" />
+      <recent name="Collections.List" />
+      <recent name="Collections.Set" />
+      <recent name="Collections.Map" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.HashTable1">
     <configuration name="HashMAp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.Map.HashMAp1" />
@@ -166,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695972533338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Collections">
+      <created>1700815234612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700815234612</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10 Java Programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 Java Programs" />
+    <MESSAGE value="Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
   </component>
 </project>
