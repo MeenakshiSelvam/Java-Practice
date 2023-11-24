@@ -3,7 +3,7 @@ package org.example;
 public class PalindromeString {
     public static void main(String args[]){
         String str = "liril";
-        String reverse = " ";
+        String reverse = "";
 
         for(int i = str.length()-1; i>=0;i--){
             reverse = reverse + str.charAt(i);
