@@ -17,5 +17,6 @@ public class CountVowels {
         }
         System.out.println("Count of Vowels :"  + count);
         System.out.println("Build is triggerred");
+
     }
 }
