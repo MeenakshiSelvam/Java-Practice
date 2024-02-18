@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e723c184-7259-4faf-bfaf-6986f23ea200" name="Changes" comment="sdasd">
+    <list default="true" id="e723c184-7259-4faf-bfaf-6986f23ea200" name="Changes" comment="count vowelss">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CountVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CountVowels.java" afterDir="false" />
     </list>
@@ -177,7 +177,42 @@
       <option name="project" value="LOCAL" />
       <updated>1700815670626</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="count vowels">
+      <created>1708251962817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708251962817</updated>
+    </task>
+    <task id="LOCAL-00007" summary="count vowelss">
+      <created>1708252031952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708252031952</updated>
+    </task>
+    <task id="LOCAL-00008" summary="count vowelss">
+      <created>1708252088742</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708252088742</updated>
+    </task>
+    <task id="LOCAL-00009" summary="count vowelss">
+      <created>1708252174663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708252174663</updated>
+    </task>
+    <task id="LOCAL-00010" summary="count vowelss">
+      <created>1708252203420</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708252203420</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +230,8 @@
     <MESSAGE value="10 Java Programs" />
     <MESSAGE value="Collections" />
     <MESSAGE value="sdasd" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdasd" />
+    <MESSAGE value="count vowels" />
+    <MESSAGE value="count vowelss" />
+    <option name="LAST_COMMIT_MESSAGE" value="count vowelss" />
   </component>
 </project>

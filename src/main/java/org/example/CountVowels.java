@@ -6,10 +6,10 @@ public class CountVowels {
         String str = "orange";
         int count =0;
 
-        for(int i = 0; i<str.length(); i++)
+        for(int i = 0; i<strlength(); i++)
         {
             Character ch = str.charAt(i);
-            if(ch == 'a' || ch =='e' || ch == 'i' || ch == 'o' ||ch=='u')
+            if(ch = 'a' || ch =='e' || ch == 'i' || ch == 'o' ||ch=='u')
             {
                 count++;
             }
